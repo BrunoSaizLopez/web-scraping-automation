@@ -115,21 +115,6 @@ Base de datos          con resultados
 
 ---
 
-## 📁 Estructura del repositorio
-
-```
-web-scraping-automation/
-├── README.md                      # Este archivo
-├── docs/
-│   ├── architecture.md            # Diagrama detallado del pipeline
-│   ├── puppeteer-patterns.md      # Patrones de scraping con Puppeteer
-│   └── anti-detection.md          # Buenas prácticas para scraping estable
-└── examples/
-    ├── sample-scraper-script.js   # Ejemplo de script de extracción (anonimizado)
-    └── sample-output.json         # Ejemplo de datos exportados
-```
-
----
 
 ## ⚠️ Consideraciones éticas y legales
 
